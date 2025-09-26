@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: [Hojun Kim] CV_9_13_수정.pdf
+cv_pdf: Hojun_Kim_CV.pdf
 description: An overview of my academic background, research experience, and technical skills.
 toc:
   sidebar: left
@@ -36,7 +36,7 @@ Robust Control, Optimization, Nonlinear Dynamics, Data-Driven Science and Engine
 * Achieved up to an 11.6% reduction in maximum tracking error against a baseline SMC controller in high-fidelity SITL simulations.
 * Critically diagnosed the limitations of signal-fusion, identifying model-plant mismatch as the root cause and leading to a strategic pivot in research direction.
 * Hypothesized that the command 'Gap' should be exploited as a real-time signal representing 'lumped uncertainty’.
-* Currently investigating a 2-DOF control framework to directly estimate and compensate for this uncertainty using a disturbance observer.
+* Currently developing a 2-DOF control framework to directly estimate and compensate for this uncertainty using a disturbance observer.
 
 ## Projects
 
