@@ -2,6 +2,9 @@
 layout: about
 title: About
 permalink: /
+profile:
+  image: 나.jpg # 방금 업로드한 사진 파일명
+  align: right # 사진을 오른쪽에 표시
 ---
 
 I am an undergraduate student at Northeastern University, pursuing a B.S. in Mechanical Engineering with a minor in Mathematics. My primary research interest lies in developing control architectures that can provably guarantee safety and performance for autonomous systems operating in uncertain, dynamic environments. This passion was ignited during my hands-on projects, where I experienced the visceral 'Gap' between ideal mathematical models and messy, unpredictable reality.
