@@ -41,7 +41,7 @@ I redefined this 'Gap' not as a nuisance to be eliminated, but as a real-time sy
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/your_gap_graph.png" title="Fig 1: The observed 'Gap' between command signals" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/helix_roll.jpg" title="Fig 1: The observed 'Gap' between command signals" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
