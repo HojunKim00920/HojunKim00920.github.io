@@ -2,7 +2,7 @@
 layout: page
 title: QATT Control Paradigm
 description: A new paradigm for uncertainty quantification by re-defining the command 'Gap' as a rich information signal. # 프로젝트 목록에 표시될 한 줄 요약
-img: assets/img/qatt_preview.jpg # 프로젝트 목록에 표시될 썸네일 이미지
+img: quadrotor_profile_pic.jpg # 프로젝트 목록에 표시될 썸네일 이미지
 importance: 1 # 숫자가 낮을수록 프로젝트 목록 위에 표시됩니다
 category: Independent Research # 프로젝트 카테고리
 ---
