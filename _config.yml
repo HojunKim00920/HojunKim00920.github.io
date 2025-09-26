@@ -79,6 +79,14 @@ giscus:
   emit_metadata: 0
   lang: en
 
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+
+collections:
+  projects:
+    output: true
+
 #
 # The rest of the file should be the default theme settings.
 # The essential parts to fix are above.
